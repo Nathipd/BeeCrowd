@@ -12,3 +12,4 @@ c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\HelloWorld\obj\Debug\net8.0\re
 c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json

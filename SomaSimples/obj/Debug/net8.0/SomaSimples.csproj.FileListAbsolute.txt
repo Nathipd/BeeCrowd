@@ -1,0 +1,15 @@
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfoInputs.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfo.cs
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.csproj.CoreCompileInputs.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.sourcelink.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\bin\Debug\net8.0\SomaSimples.exe
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\bin\Debug\net8.0\SomaSimples.deps.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\bin\Debug\net8.0\SomaSimples.runtimeconfig.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\bin\Debug\net8.0\SomaSimples.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\bin\Debug\net8.0\SomaSimples.pdb
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\refint\SomaSimples.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.pdb
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\SomaSimples.genruntimeconfig.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\SomaSimples\obj\Debug\net8.0\ref\SomaSimples.dll

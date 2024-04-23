@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj": {}
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj": {
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj",
         "projectName": "AreaDoCirculo",
-        "projectPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj",
+        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\AreaDoCirculo.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\obj\\",
+        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\AreaDoCirculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"

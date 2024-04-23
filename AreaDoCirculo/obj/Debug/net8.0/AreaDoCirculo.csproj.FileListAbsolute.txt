@@ -1,0 +1,15 @@
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.exe
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.deps.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.runtimeconfig.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.pdb
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfoInputs.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfo.cs
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.sourcelink.json
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\refint\AreaDoCirculo.dll
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.pdb
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.genruntimeconfig.cache
+c:\Users\natha\OneDrive\Documents\GitHub\BeeCrowd\AreaDoCirculo\obj\Debug\net8.0\ref\AreaDoCirculo.dll
