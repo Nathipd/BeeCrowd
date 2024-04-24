@@ -13,7 +13,7 @@ class URI
     {
         double A, B, S;
 
-        A = double.Parse(Console.ReadLine());//converte de string para double
+        A = double.Parse(Console.ReadLine());//convert string to double
         B = double.Parse(Console.ReadLine());
 
         S = A + B;
