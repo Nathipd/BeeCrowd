@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\ProdutoSimples\\ProdutoSimples.csproj": {}
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Media1\\Media1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\ProdutoSimples\\ProdutoSimples.csproj": {
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Media1\\Media1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\ProdutoSimples\\ProdutoSimples.csproj",
-        "projectName": "ProdutoSimples",
-        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\ProdutoSimples\\ProdutoSimples.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Media1\\Media1.csproj",
+        "projectName": "Media1",
+        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Media1\\Media1.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\ProdutoSimples\\obj\\",
+        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Media1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
