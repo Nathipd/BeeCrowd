@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj": {}
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj": {
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj",
         "projectName": "Salario",
-        "projectPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj",
+        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\Salario.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\obj\\",
+        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Salario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
