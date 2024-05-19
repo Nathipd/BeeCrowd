@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\SalarioComBonus\\SalarioComBonus.csproj": {}
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Esfera\\Esfera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\SalarioComBonus\\SalarioComBonus.csproj": {
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Esfera\\Esfera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\SalarioComBonus\\SalarioComBonus.csproj",
-        "projectName": "SalarioComBonus",
-        "projectPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\SalarioComBonus\\SalarioComBonus.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Esfera\\Esfera.csproj",
+        "projectName": "Esfera",
+        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Esfera\\Esfera.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\SalarioComBonus\\obj\\",
+        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\Esfera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
