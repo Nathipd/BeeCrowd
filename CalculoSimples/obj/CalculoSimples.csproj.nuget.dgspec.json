@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj": {}
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj": {
+    "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj",
         "projectName": "CalculoSimples",
-        "projectPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj",
+        "projectPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\CalculoSimples.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\obj\\",
+        "outputPath": "c:\\Users\\natha\\OneDrive\\Documents\\GitHub\\BeeCrowd\\CalculoSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
