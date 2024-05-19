@@ -20,6 +20,6 @@ class URI
         TotalVendas = double.Parse(Console.ReadLine()); //converte string para double e atribui seu valor na variáve
 
         SalarioTotal = SalarioFixo + (TotalVendas*0.15);
-        Console.WriteLine("TOTAL = R$" + SalarioTotal.ToString("F2"));
+        Console.WriteLine("TOTAL = R$ " + SalarioTotal.ToString("F2"));
     }
 }

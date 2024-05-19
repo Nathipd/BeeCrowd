@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salario", "Salario\Salario.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{CEFFC4B5-1E66-468C-A884-8734EB5ADC09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{FD92FF43-8C93-4C92-B147-1E51735C3AA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{CEFFC4B5-1E66-468C-A884-8734EB5ADC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEFFC4B5-1E66-468C-A884-8734EB5ADC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEFFC4B5-1E66-468C-A884-8734EB5ADC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD92FF43-8C93-4C92-B147-1E51735C3AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD92FF43-8C93-4C92-B147-1E51735C3AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD92FF43-8C93-4C92-B147-1E51735C3AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD92FF43-8C93-4C92-B147-1E51735C3AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
