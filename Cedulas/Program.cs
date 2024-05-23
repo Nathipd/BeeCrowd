@@ -5,6 +5,7 @@ namespace Cedulas
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             int valor = int.Parse(Console.ReadLine());
