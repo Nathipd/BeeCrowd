@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanche", "Lanche\Lanche.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplos", "Multiplos\Multiplos.csproj", "{AB2D9106-4993-4831-9163-909979C6C77A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeJogo", "TempoDeJogo\TempoDeJogo.csproj", "{0EBEB200-4D26-4B4D-A0DC-74F7450D70AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{AB2D9106-4993-4831-9163-909979C6C77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB2D9106-4993-4831-9163-909979C6C77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB2D9106-4993-4831-9163-909979C6C77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBEB200-4D26-4B4D-A0DC-74F7450D70AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBEB200-4D26-4B4D-A0DC-74F7450D70AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBEB200-4D26-4B4D-A0DC-74F7450D70AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBEB200-4D26-4B4D-A0DC-74F7450D70AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
