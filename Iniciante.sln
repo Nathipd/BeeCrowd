@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeJogo", "TempoDeJogo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoDeSalario", "AumentoDeSalario\AumentoDeSalario.csproj", "{9655CA83-081D-4226-BEB7-EE83B5D81C50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{9655CA83-081D-4226-BEB7-EE83B5D81C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9655CA83-081D-4226-BEB7-EE83B5D81C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9655CA83-081D-4226-BEB7-EE83B5D81C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
