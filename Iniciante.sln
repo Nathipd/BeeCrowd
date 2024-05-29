@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -52,6 +52,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoDeSalario", "AumentoDeSalario\AumentoDeSalario.csproj", "{9655CA83-081D-4226-BEB7-EE83B5D81C50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrescenteEDecrescente", "CrescenteEDecrescente\CrescenteEDecrescente.csproj", "{359106E4-42E5-47E4-B5B8-7EA20805012C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -162,5 +164,9 @@ Global
 		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3825E507-D2BE-4AE8-A630-B7ABB8BBEC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359106E4-42E5-47E4-B5B8-7EA20805012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359106E4-42E5-47E4-B5B8-7EA20805012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359106E4-42E5-47E4-B5B8-7EA20805012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359106E4-42E5-47E4-B5B8-7EA20805012C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
