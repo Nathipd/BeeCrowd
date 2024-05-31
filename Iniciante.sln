@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenhaFixa", "SenhaFixa\Senh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoDeNota", "ValidacaoDeNota\ValidacaoDeNota.csproj", "{7B18F314-C2D1-462B-A3A9-373D2B2679CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDeCombustivel", "TipoDeCombustivel\TipoDeCombustivel.csproj", "{BA0D0B21-321E-4DDA-B670-198FA542A808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{7B18F314-C2D1-462B-A3A9-373D2B2679CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B18F314-C2D1-462B-A3A9-373D2B2679CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B18F314-C2D1-462B-A3A9-373D2B2679CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0D0B21-321E-4DDA-B670-198FA542A808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D0B21-321E-4DDA-B670-198FA542A808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D0B21-321E-4DDA-B670-198FA542A808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D0B21-321E-4DDA-B670-198FA542A808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
